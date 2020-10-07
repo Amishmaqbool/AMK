@@ -138,10 +138,13 @@ const StyledSidebar = styled.aside`
         color: var(--green);
         font-size: var(--fz-sm);
       }
+      a{
+        color: var(--green);
+      }
     }
 
     a {
-      ${({ theme }) => theme.mixins.link};
+      color: var(--green);
       width: 100%;
       padding: 3px 20px 20px;
     }
