@@ -3,7 +3,7 @@ date:  '2020-09-03'
 title: 'Front end Engineer'
 company: 'Alpha Squad'
 location: 'Islamabad, PK'
-range: 'January 2019 - December 2020'
+range: 'January 2019 - December 2019'
 url: 'https://www.alphasquad.studio/'
 ---
 
