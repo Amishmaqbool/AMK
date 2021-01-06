@@ -1,9 +1,9 @@
 ---
-date:  '2019-12-01'
+date:  '2020-12-01'
 title: 'Senior Front end Engineer'
 company: 'FHA Technologies'
 location: 'Rawalpindi, PK'
-range: 'January 2019 - December 2019'
+range: ' December 2020 - Present'
 url: 'http://fhatechnology.com/'
 ---
 

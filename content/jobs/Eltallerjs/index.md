@@ -3,7 +3,7 @@ date: '2020-09-05'
 title: 'Freelance Frontend Software Engineer'
 company: 'Eltallerjs'
 location: 'Remote'
-range: 'March 2020 - Present'
+range: 'March 2020 - September 2020'
 url: 'https://eltallerjs.com/'
 ---
 
