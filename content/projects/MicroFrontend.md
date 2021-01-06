@@ -7,7 +7,7 @@ tech:
   - Micro Frontend
   - React
   - Webpack
-  - Webpack-Module Federation
+  - Webpack-Module-Federation
 showInProjects: true
 ---
 
