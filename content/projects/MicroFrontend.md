@@ -6,8 +6,8 @@ tech:
   - Micro Frontend
   - React
   - Webpack
-  - Webpack-Module Fe
+  - Webpack-Module Federation
 showInProjects: true
 ---
 
-A side project for automated lab evaluation system although it was a side project and now cant spare time for it so stoped working on it.
+A side project to set up basic boilerplate - configuration with webpack to Implement and prove the concept of Micro Frontend Architecture.
