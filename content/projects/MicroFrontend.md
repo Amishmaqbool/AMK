@@ -1,5 +1,5 @@
 ---
-date: '2020-01-02'
+date: '2020-12-02'
 title: 'Micro FrontEnd Architecture App Setup'
 github: 'https://github.com/Amishmaqbool/MicroFrontend-setup.git'
 external: ''
