@@ -165,20 +165,20 @@ const About = () => {
               but the more was learning the more curious I get which took me in the depth of
               programming and started a bachlor of computer science degree which opened new door of
               learning and knowledge for me then got introduced to Java ,concepts of OOP,database
-              and many more and the journey was going great but then I found{' '}
-              <a href="https://www.linkedin.com/in/arslanqamarkhan/">Arslan Khan</a> as a mentor in
-              year 2018 and thats what I was missing.A mentor,and then he showed me the door of
-              JavaScript programming language and that was the time when my brain sartrd sending
-              push notification which say thats was the path I was looking forward from the start of
-              my journey,took advantage of it learned frontend techonoligies like Html css React
-              etc and from him and got hired as a front end developer at <a>i-intellect.inc</a>
+              and many more , with proven track record as a professional Expert experienced in Designing, Architecting & Developing , Managing , Maintaining Solid reliable, Scalable, Complex,Maintainable software solutions and teams in web / Mobile Application
+
+From my Experience having worked with many Fortune companies, I'm a UI/UX Designer and a stellar Full-Stack Developer who's worked on every technology, tool, framework, and library in existence. Whatever your project entails, I've done it before.
+
+I have handled Fortune enterprise-grade projects ranging from GUCCI and Walmart (which is a consortium of companies of World top E-commerce and sell out Brands) to startups from different domain like MarTech ,PropTech ,HealthTech , FinTech startups ,SAAS and PAAS web and Mobile Applications
+
+I love Working on the Bleeding Edge of the Most Advanced Technologies
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.comsats.edu.pk">Comsats University</a>, I joined the engineering
-              team at <a href="https://eltallerjs.com">eltallerjs</a> where I work on a wide variety
-              of interesting and meaningful projects.With a wounderful Team Driven by <a href="https://www.linkedin.com/in/ivanmtzaguero/">Iván Martínez</a>
+  
+For startups, SMEs , Enterprise and Fortune clients I’ve played the role of a UI/UX designer as well as senior Full-Stack / Front-End /Back-End Developer. I’m equally a team player yet enjoy working solo as well, delivering world-class products
+
+My profile also includes monitoring of complete project life-cycle development from Client communication until the project completion and work collaboratively in all functional areas to ensure deliveries to the client's satisfaction
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
