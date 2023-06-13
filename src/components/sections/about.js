@@ -21,7 +21,7 @@ const StyledAboutSection = styled.section`
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
-    grid-template-columns: repeat(1, minmax(140px, 400px));
+    grid-template-columns: repeat(1, minmax(140px, 500px));
     padding: 0;
     margin: 20px 0 0 0;
     overflow: hidden;
@@ -144,7 +144,6 @@ const About = () => {
     'ReactCharts | ReCharts | Charts | Visualizations | Animation | Framer motion',
     ' Node JS | Express.js | Firebase | Firestore | MongoDB | Mongoose | Postgres | Prisma',
     'AWS | Amplify | S3 | Route53 | Git | Github | Bitbucket etc.',
-
   ];
 
   return (
@@ -154,31 +153,27 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            Greetings! I'm Amish, a passionate Full stack Software Engineer based in Abbottabad,
-            Pakistan. I thrive on creating captivating experiences on the internet, whether it's
-            through websites, mobile applications, or anything in between. My ultimate goal is to
-            develop products that offer pixel-perfect designs and exceptional performance. My
-            journey into the world of programming began at the age of 15 when I delved into GW
-            BASIC, where I gained practical knowledge of basic programming concepts. This sparked my
-            curiosity, leading me to explore the depths of programming. I pursued a Bachelor's
-            degree in Computer Science, which opened doors to new learning opportunities. I
-            acquainted myself with Java, object-oriented programming, databases, and various other
-            technologies. With a proven track record as a professional expert, I have successfully
-            designed, architected, developed, managed, and maintained reliable, scalable, and
-            complex software solutions. Throughout my career, I have had the privilege of working
-            with esteemed Fortune companies, such as GUCCI and Walmart, as well as startups in
-            diverse domains including MarTech, PropTech, HealthTech, FinTech, and SAAS and PAAS web
-            and mobile applications. I take pride in working on the cutting edge of the most
-            advanced technologies. I have served as a UI/UX designer, senior Full-Stack Developer,
-            and Backend Developer for startups, SMEs, and enterprise clients. I am both a team
-            player and capable of working independently, delivering world-class products. Throughout
-            the project lifecycle, I have excelled in managing client communication and ensuring
-            client satisfaction. I am experienced in collaborating with cross-functional teams to
-            achieve outstanding results. In summary, I bring a wealth of experience, technical
-            expertise, and a passion for creating exceptional digital experiences. Whether you're a
-            startup, SME, or enterprise client, I am ready to contribute my skills to help bring
-            your vision to life. Let's create something extraordinary together!<br />
-
+            Greetings! I'm Amish, a Frontend Software engineer based in Abbottabad, Pakistan. I have
+            a strong passion for crafting exceptional experiences on the internet, whether it's
+            through websites, mobile applications, or anything in between. My focus is always on
+            building pixel-perfect and high-performance products that leave a lasting impression. My
+            programming journey started at a young age of 15, exploring basic programming concepts
+            using GW BASIC. This ignited my curiosity and led me to dive deeper into languages like
+            C. Pursuing a Bachelor's degree in Computer Science further expanded my knowledge,
+            introducing me to Java, object-oriented programming, and databases. With a proven track
+            record, I have successfully designed, developed, and managed solid, reliable, and
+            scalable software solutions for esteemed Fortune companies. As a UI/UX Designer and a
+            stellar Full-Stack Developer, I have a wide-ranging experience working with various
+            technologies, tools, frameworks, and libraries. From renowned brands like GUCCI and
+            Walmart to startups in domains such as MarTech, PropTech, HealthTech, and FinTech, I
+            have handled diverse enterprise-grade projects. I thrive on working with cutting-edge
+            technologies and staying at the forefront of innovation. Whether working collaboratively
+            as a team player or independently, my goal is to deliver world-class products that
+            exceed client expectations. I am well-versed in managing the complete project lifecycle,
+            ensuring seamless communication and client satisfaction. Let's collaborate to create
+            remarkable digital solutions together, regardless of whether you're a startup, SME,
+            enterprise, or Fortune client
+            <br />
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
