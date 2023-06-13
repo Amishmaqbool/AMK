@@ -21,7 +21,7 @@ const StyledAboutSection = styled.section`
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
-    grid-template-columns: repeat(2, minmax(140px, 200px));
+    grid-template-columns: repeat(1, minmax(140px, 400px));
     padding: 0;
     margin: 20px 0 0 0;
     overflow: hidden;
@@ -133,14 +133,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    'HTML & CSS/Scss',
-    'Bootstrap',
-    'JavaScript (ES6+)',
-    'React',
-    'React-natve',
-    'Redux',
-    'Gatsby',
-    'Graphql',
+    'HTML5 | CSS3 | Less | SASS | SCSS',
+    'Bootstrap | Tailwind CSS | Material UI | Ant Design | React-Suite | Quasar-UI',
+    'JavaScript (ES6+) | JavaScript | TypeScript',
+    'React JS | Vue JS | Svelte JS | PWA | Next JS | Nuxt JS | Gatsby JS | Blitz JS',
+    'React Native JS | RN-paper | RN-tailwind | Expo',
+    'Redux | Redux thunk | Redux toolkit| React Query',
+    'GraphQL | GraphQL Apollo Client',
+    'Contentful | Strapi | Sanity | Prismic',
+    'ReactCharts | ReCharts | Charts | Visualizations | Animation | Framer motion',
+    ' Node JS | Express.js | Firebase | Firestore | MongoDB | Mongoose | Postgres | Prisma',
+    'AWS | Amplify | S3 | Route53 | Git | Github | Bitbucket etc.',
+
   ];
 
   return (
@@ -150,36 +154,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Greetings! I'm Amish, a Frontend Software engineer based in Abbottabad, Pakistan.</p>
-
-            <p>
-              I enjoy creating things that live on the internet, whether that be websites, Mobile
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
-            </p>
-
-            <p>
-              My passion for programming started early at age 15 where I started learning the
-              comcepts of basic programming practially on GW BASIC after a year I got introduced
-              with C language where I started learning the basic concepts of writing basic programs
-              but the more was learning the more curious I get which took me in the depth of
-              programming and started a bachlor of computer science degree which opened new door of
-              learning and knowledge for me then got introduced to Java ,concepts of OOP,database
-              and many more , with proven track record as a professional Expert experienced in Designing, Architecting & Developing , Managing , Maintaining Solid reliable, Scalable, Complex,Maintainable software solutions and teams in web / Mobile Application
-
-From my Experience having worked with many Fortune companies, I'm a UI/UX Designer and a stellar Full-Stack Developer who's worked on every technology, tool, framework, and library in existence. Whatever your project entails, I've done it before.
-
-I have handled Fortune enterprise-grade projects ranging from GUCCI and Walmart (which is a consortium of companies of World top E-commerce and sell out Brands) to startups from different domain like MarTech ,PropTech ,HealthTech , FinTech startups ,SAAS and PAAS web and Mobile Applications
-
-I love Working on the Bleeding Edge of the Most Advanced Technologies
-            </p>
-
-            <p>
-  
-For startups, SMEs , Enterprise and Fortune clients I’ve played the role of a UI/UX designer as well as senior Full-Stack / Front-End /Back-End Developer. I’m equally a team player yet enjoy working solo as well, delivering world-class products
-
-My profile also includes monitoring of complete project life-cycle development from Client communication until the project completion and work collaboratively in all functional areas to ensure deliveries to the client's satisfaction
-            </p>
+            Greetings! I'm Amish, a passionate Full stack Software Engineer based in Abbottabad,
+            Pakistan. I thrive on creating captivating experiences on the internet, whether it's
+            through websites, mobile applications, or anything in between. My ultimate goal is to
+            develop products that offer pixel-perfect designs and exceptional performance. My
+            journey into the world of programming began at the age of 15 when I delved into GW
+            BASIC, where I gained practical knowledge of basic programming concepts. This sparked my
+            curiosity, leading me to explore the depths of programming. I pursued a Bachelor's
+            degree in Computer Science, which opened doors to new learning opportunities. I
+            acquainted myself with Java, object-oriented programming, databases, and various other
+            technologies. With a proven track record as a professional expert, I have successfully
+            designed, architected, developed, managed, and maintained reliable, scalable, and
+            complex software solutions. Throughout my career, I have had the privilege of working
+            with esteemed Fortune companies, such as GUCCI and Walmart, as well as startups in
+            diverse domains including MarTech, PropTech, HealthTech, FinTech, and SAAS and PAAS web
+            and mobile applications. I take pride in working on the cutting edge of the most
+            advanced technologies. I have served as a UI/UX designer, senior Full-Stack Developer,
+            and Backend Developer for startups, SMEs, and enterprise clients. I am both a team
+            player and capable of working independently, delivering world-class products. Throughout
+            the project lifecycle, I have excelled in managing client communication and ensuring
+            client satisfaction. I am experienced in collaborating with cross-functional teams to
+            achieve outstanding results. In summary, I bring a wealth of experience, technical
+            expertise, and a passion for creating exceptional digital experiences. Whether you're a
+            startup, SME, or enterprise client, I am ready to contribute my skills to help bring
+            your vision to life. Let's create something extraordinary together!<br />
 
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
