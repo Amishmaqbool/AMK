@@ -11,9 +11,6 @@
     "gatsby"
   ],
   "license": "MIT",
-  "engines": {
-    "node": "18.0.0"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
