@@ -1,4 +1,5 @@
 const config = require('./src/config');
+const adapter = require('gatsby-adapter-netlify');
 
 module.exports = {
   siteMetadata: {
@@ -148,4 +149,7 @@ module.exports = {
       },
     },
   ],
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: false,
+  }),
 };
